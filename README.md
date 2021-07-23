@@ -49,7 +49,6 @@ bibliography, and generates a collection.
    generate the collection.
 * *collection source folder*. The folder containing the collection
    source.
-*  
 
 ## Background technical details
 
